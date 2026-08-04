@@ -513,6 +513,13 @@ For more examples, refer to the official [WaterdogPE Example‑plugins](https://
 
 ---
 
+## License
+
+WaterdogPE is licensed under the GNU General Public License, Version 2.0.  
+This repository is provided as a template and guide; you are free to use and modify it for your own plugins.
+
+---
+
 *This guide is based on the official WaterdogPE Plugin API documentation. For the most up‑to‑date information, always refer to the official docs at [docs.waterdog.dev](https://docs.waterdog.dev).*
 
 ---
