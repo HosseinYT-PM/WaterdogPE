@@ -477,22 +477,17 @@ this.getProxy().getScheduler().scheduleAsync(() -> {
 
 **Tick timing:** In WaterdogPE, one second equals 20 ticks.
 
----
+```markdown
+## Building
 
-## Building and Deploying
+For detailed build instructions (including online and offline builds for Windows and Linux), please refer to the dedicated [BUILD.md](BUILD.md) file.
+```
 
-1. **Build the plugin:**
-   ```bash
-   mvn clean package
-   ```
+You can also include a more prominent link, for example:
 
-2. **Locate the JAR:** `target/MyPlugin.jar`
-
-3. **Deploy:** Copy the JAR to your WaterdogPE proxy's `plugins/` folder.
-
-4. **Restart or reload** the proxy to load the plugin.
-
----
+```markdown
+> **Building your plugin?** Check out [BUILD.md](BUILD.md) for step‑by‑step instructions on how to compile your plugin both online and offline on any platform.
+```
 
 ## Example Plugins
 
